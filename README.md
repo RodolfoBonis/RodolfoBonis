@@ -1,5 +1,6 @@
-Hello, my name is Rodolfo De Bonis, I have 3 years of experience in mobile development.
-I am graduated in systems analysis and development by UNINASSAU.
+Olá, me chamo Rodolfo De Bonis, atuo como desenvolvedor mobile a 3 anos.
+
+
 
 | 🚀  Skills🚀     |
 |------------|
