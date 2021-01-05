@@ -1,6 +1,8 @@
 Olá, me chamo Rodolfo De Bonis, atuo como desenvolvedor mobile a 3 anos.
 
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RodolfoBonis&show_icons=true&count_private=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoBonis&exclude_repo=micro-videos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 | 🚀  Skills🚀     |
 |------------|
@@ -22,7 +24,6 @@ Olá, me chamo Rodolfo De Bonis, atuo como desenvolvedor mobile a 3 anos.
 <a href="https://twitter.com/RodolfoBonis" alt="Twitter">
 <img src="https://img.shields.io/badge/-@RodolfoBonis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RodolfoBonis" /></a>
  </p>
-
 
 <!--
 **RodolfoBonis/RodolfoBonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
