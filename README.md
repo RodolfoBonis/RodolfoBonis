@@ -1,4 +1,4 @@
-Olá, me chamo Rodolfo De Bonis, atuo como desenvolvedor mobile a 3 anos.
+Olá, me chamo Rodolfo De Bonis, sou desenvolvedor mobile Flutter
 
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RodolfoBonis&show_icons=true&count_private=true&theme=dracula)
 
