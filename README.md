@@ -26,8 +26,7 @@ Olá, me chamo Rodolfo De Bonis, sou desenvolvedor mobile Flutter apaixonado por
 
 |   Bando de dados    |
 |------------|
-<img src="https://img.shields.io/badge/-MYSQL-blue?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-MONGODB-darkgreen?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-SQLSERVER-red?style=flat-square&logo=sqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/-POSTGRESS-blue?style=flat-square&logo=postgress&logoColor=white" />|
-|
+<img src="https://img.shields.io/badge/-MYSQL-blue?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-MONGODB-darkgreen?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-SQLSERVER-red?style=flat-square&logo=sqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/-POSTGRESS-blue?style=flat-square&logo=postgress&logoColor=white" />||
 
 
 | 📨 Social networks 📨       |
