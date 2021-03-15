@@ -1,9 +1,3 @@
-Olá, me chamo Rodolfo De Bonis, sou desenvolvedor mobile Flutter apaixonado por estudar novas tecnologia e solucionar problemas.
-
-
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RodolfoBonis&show_icons=true&count_private=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoBonis&exclude_repo=micro-videos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 | 🚀  Skills🚀     |
 |------------|
@@ -26,7 +20,7 @@ Olá, me chamo Rodolfo De Bonis, sou desenvolvedor mobile Flutter apaixonado por
 
 |   Bando de dados    |
 |------------|
-<img src="https://img.shields.io/badge/-MYSQL-blue?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-MONGODB-darkgreen?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-SQLSERVER-red?style=flat-square&logo=sqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/-POSTGRESS-blue?style=flat-square&logo=postgress&logoColor=white" />||
+<img src="https://img.shields.io/badge/-MYSQL-blue?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-MONGODB-darkgreen?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-SQLSERVER-red?style=flat-square&logo=sqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/-POSTGRESS-blue?style=flat-square&logo=postgress&logoColor=white" />|
 
 
 | 📨 Social networks 📨       |
@@ -43,6 +37,9 @@ Olá, me chamo Rodolfo De Bonis, sou desenvolvedor mobile Flutter apaixonado por
 <img src="https://img.shields.io/badge/-@RodolfoBonis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RodolfoBonis" /></a>
  </p>
  
+
+ ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RodolfoBonis&show_icons=true&count_private=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoBonis&exclude_repo=micro-videos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **RodolfoBonis/RodolfoBonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
