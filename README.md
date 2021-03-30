@@ -1,44 +1,17 @@
 
-| 🚀  Skills🚀     |
+ ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RodolfoBonis&show_icons=true&count_private=true&theme=dracula) 
+
+|   Technologies & Tools    |
 |------------|
+<img src="https://img.shields.io/badge/-HTML%205-orange?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS%203-blue?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-ANGULAR%207-red?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/-GOLANG-blue?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/-NODEJS-green?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/-NESTJS-red?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/-JAVA-red?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-DART-blue?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/-FLUTTER-blue?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/-IONIC-blue?style=flat-square&logo=ionic&logoColor=white" /> <img src="https://img.shields.io/badge/-ANDROID-green?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/-IOS-blue?style=flat-square&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/-SWIFT-orange?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/-KOTLIN-orange?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/-DOCKER-blue?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-MYSQL-blue?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-MONGODB-darkgreen?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-SQLSERVER-red?style=flat-square&logo=sqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/-POSTGRESS-blue?style=flat-square&logo=postgress&logoColor=white" />|
 
-|   FrontEnd    |
+
+|   Social Networks    |
 |------------|
-<img src="https://img.shields.io/badge/-HTML%205-orange?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS%203-blue?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-ANGULAR%207-red?style=flat-square&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/-REACT-blue?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow?style=flat-square&logo=javascript&logoColor=white" />|
-
-|   Backend    |
-|------------|
-<img src="https://img.shields.io/badge/-GOLANG-blue?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/-NODEJS-green?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/-NESTJS-red?style=flat-square&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/-SPRING-darkgreen?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/-JAVA-red?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-LARAVEL-blue?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/-DART-blue?style=flat-square&logo=dart&logoColor=white" />|
-
-|   Mobile    |
-|------------|
-<img src="https://img.shields.io/badge/-FLUTTER-blue?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/-IONIC-blue?style=flat-square&logo=ionic&logoColor=white" /> <img src="https://img.shields.io/badge/-ANDROID-green?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/-IOS-blue?style=flat-square&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/-SWIFT-orange?style=flat-square&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/-REACT%20NATIVE-blue?style=flat-square&logo=react&logoColor=white" />|
-
-|   Devops    |
-|------------|
-<img src="https://img.shields.io/badge/-NGINX-green?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/-RABBITMQ-orange?style=flat-square&logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/-ELASTIC%20SEARCH-yellow?style=flat-square&logo=elasticsearch&logoColor=white" /> <img src="https://img.shields.io/badge/-DOCKER-blue?style=flat-square&logo=docker&logoColor=white" />|
-
-|   Bando de dados    |
-|------------|
-<img src="https://img.shields.io/badge/-MYSQL-blue?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-MONGODB-darkgreen?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-SQLSERVER-red?style=flat-square&logo=sqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/-POSTGRESS-blue?style=flat-square&logo=postgress&logoColor=white" />|
-
-
-| 📨 Social networks 📨       |
-|------------|
-<br/>
-<p>
-<a href="mailto:dev@rodolfodebonis.com.br" alt="Gmail">
-<img src="https://img.shields.io/badge/-dev@rodolfodebonis.com.br-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=dev@rodolfodebonis.com.br" /></a>
-  
-<a href="https://www.linkedin.com/in/rodolfo-de-bonis/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Rodolfo%20De%20Bonis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-de-bonis/" /></a>
-
-<a href="https://twitter.com/RodolfoBonis" alt="Twitter">
-<img src="https://img.shields.io/badge/-@RodolfoBonis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RodolfoBonis" /></a>
- </p>
+<img src="https://img.shields.io/badge/-dev@rodolfodebonis.com.br-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=dev@rodolfodebonis.com.br" /> <img src="https://img.shields.io/badge/-Rodolfo%20De%20Bonis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodolfo-de-bonis/" /> <img src="https://img.shields.io/badge/-@RodolfoBonis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RodolfoBonis" />|
  
 
- ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RodolfoBonis&show_icons=true&count_private=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoBonis&exclude_repo=micro-videos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoBonis&exclude_repo=micro-videos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
