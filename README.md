@@ -3,7 +3,7 @@
  
  ### About me 
  - Hi my name is Rodolfo, I have 26 year old and currently I live in Florianópolis-Brazil.
- - I'm a mobile developer for 5 years
+ - I'm a mobile developer for 6 years
  - I'm always looking to update myself on the new technologies of the mobile development
 
 |   Technologies & Tools    |
