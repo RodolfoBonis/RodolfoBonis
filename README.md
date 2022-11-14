@@ -2,7 +2,7 @@
  ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RodolfoBonis&show_icons=true&count_private=true&theme=dracula) 
  
  ### About me 
- - Hi my name is Rodolfo, I have 26 year old and currently I live in Florianópolis-Brazil.
+ - Hi my name is Rodolfo, I have 26 year old and currently I live in Maceió-Brazil.
  - I'm a mobile developer for 6 years
  - I'm always looking to update myself on the new technologies of the mobile development
 
