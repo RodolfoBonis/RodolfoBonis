@@ -1,5 +1,5 @@
 
- ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RodolfoBonis&show_icons=true&count_private=true&theme=dracula) 
+ ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RodolfoBonis&show_icons=true&theme=dracula&include_all_commits=true) 
  
  ### About me 
  - Hi my name is Rodolfo, I have 27 year old and currently I live in Maceió-Brazil.
